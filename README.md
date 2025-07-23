@@ -51,6 +51,7 @@ Here's a video / GIF that demos all of the app's implemented features:
   </div>
 
 GIF created with **Loom**
+https://imgur.com/a/sxf5pd6
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS

@@ -10,7 +10,7 @@ Time spent: **5** hours spent in total
 
 **Game of Thrones** is an android app that **shows lists of GOT characters fetched using got api and displayed using a recyclerview**
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: **😍🤩😊**
 
 ## Application Features
 
@@ -28,9 +28,6 @@ The following STRETCH features are implemented:
 - [x] Show a `Toast` or `Snackbar` when an item is clicked
 - [x] Add item dividers with `DividerItemDecoration`
 
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -60,9 +57,6 @@ GIF created with **Loom**
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
